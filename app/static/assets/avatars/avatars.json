@@ -1,0 +1,459 @@
+{
+ "heroes": {
+  "庚辰": {
+   "id": 1076,
+   "url": "/static/assets/avatars/characters/1076.png"
+  },
+  "梅塞可": {
+   "id": 10131,
+   "url": "/static/assets/avatars/characters/10131.png"
+  },
+  "雪儿": {
+   "id": 1046,
+   "url": "/static/assets/avatars/characters/1046.png"
+  },
+  "亚里沙": {
+   "id": 1045,
+   "url": "/static/assets/avatars/characters/1045.png"
+  },
+  "巴德尔": {
+   "id": 1036,
+   "url": "/static/assets/avatars/characters/1036.png"
+  },
+  "望舒": {
+   "id": 10170,
+   "url": "/static/assets/avatars/characters/10170.png"
+  },
+  "宁希达": {
+   "id": 10066,
+   "url": "/static/assets/avatars/characters/10066.png"
+  },
+  "克图格娅": {
+   "id": 10183,
+   "url": "/static/assets/avatars/characters/10183.png"
+  },
+  "长琴": {
+   "id": 10169,
+   "url": "/static/assets/avatars/characters/10169.png"
+  },
+  "泰逢": {
+   "id": 10175,
+   "url": "/static/assets/avatars/characters/10175.png"
+  },
+  "后土": {
+   "id": 10176,
+   "url": "/static/assets/avatars/characters/10176.png"
+  },
+  "尼娅": {
+   "id": 10144,
+   "url": "/static/assets/avatars/characters/10144.png"
+  },
+  "苍术": {
+   "id": 10111,
+   "url": "/static/assets/avatars/characters/10111.png"
+  },
+  "月读": {
+   "id": 1099,
+   "url": "/static/assets/avatars/characters/1099.png"
+  },
+  "俄尼里伊": {
+   "id": 1097,
+   "url": "/static/assets/avatars/characters/1097.png"
+  },
+  "赫尔墨斯": {
+   "id": 1096,
+   "url": "/static/assets/avatars/characters/1096.png"
+  },
+  "托特": {
+   "id": 1095,
+   "url": "/static/assets/avatars/characters/1095.png"
+  },
+  "海拉": {
+   "id": 1094,
+   "url": "/static/assets/avatars/characters/1094.png"
+  },
+  "国常立": {
+   "id": 1093,
+   "url": "/static/assets/avatars/characters/1093.png"
+  },
+  "帕尔瓦蒂": {
+   "id": 1089,
+   "url": "/static/assets/avatars/characters/1089.png"
+  },
+  "诗蔻蒂": {
+   "id": 1085,
+   "url": "/static/assets/avatars/characters/1085.png"
+  },
+  "薇儿丹蒂": {
+   "id": 1084,
+   "url": "/static/assets/avatars/characters/1084.png"
+  },
+  "埃克什瓦": {
+   "id": 1083,
+   "url": "/static/assets/avatars/characters/1083.png"
+  },
+  "丝卡蒂": {
+   "id": 1081,
+   "url": "/static/assets/avatars/characters/1081.png"
+  },
+  "维达尔": {
+   "id": 1080,
+   "url": "/static/assets/avatars/characters/1080.png"
+  },
+  "武罗": {
+   "id": 1077,
+   "url": "/static/assets/avatars/characters/1077.png"
+  },
+  "陵光": {
+   "id": 1075,
+   "url": "/static/assets/avatars/characters/1075.png"
+  },
+  "英招": {
+   "id": 1074,
+   "url": "/static/assets/avatars/characters/1074.png"
+  },
+  "麟钰": {
+   "id": 1073,
+   "url": "/static/assets/avatars/characters/1073.png"
+  },
+  "禄良": {
+   "id": 1072,
+   "url": "/static/assets/avatars/characters/1072.png"
+  },
+  "孟章": {
+   "id": 1071,
+   "url": "/static/assets/avatars/characters/1071.png"
+  },
+  "金乌": {
+   "id": 1070,
+   "url": "/static/assets/avatars/characters/1070.png"
+  },
+  "恩利尔": {
+   "id": 1068,
+   "url": "/static/assets/avatars/characters/1068.png"
+  },
+  "欧申纳斯": {
+   "id": 1067,
+   "url": "/static/assets/avatars/characters/1067.png"
+  },
+  "大国主": {
+   "id": 1066,
+   "url": "/static/assets/avatars/characters/1066.png"
+  },
+  "执明": {
+   "id": 1061,
+   "url": "/static/assets/avatars/characters/1061.png"
+  },
+  "陆吾": {
+   "id": 1060,
+   "url": "/static/assets/avatars/characters/1060.png"
+  },
+  "阿波罗": {
+   "id": 1059,
+   "url": "/static/assets/avatars/characters/1059.png"
+  },
+  "迦具土": {
+   "id": 1058,
+   "url": "/static/assets/avatars/characters/1058.png"
+  },
+  "伽梨": {
+   "id": 1056,
+   "url": "/static/assets/avatars/characters/1056.png"
+  },
+  "暗御津羽": {
+   "id": 1055,
+   "url": "/static/assets/avatars/characters/1055.png"
+  },
+  "无常（必安主理中）": {
+   "id": 1054,
+   "url": "/static/assets/avatars/characters/1054.png"
+  },
+  "羲和": {
+   "id": 1053,
+   "url": "/static/assets/avatars/characters/1053.png"
+  },
+  "马尔杜克": {
+   "id": 1052,
+   "url": "/static/assets/avatars/characters/1052.png"
+  },
+  "丰前坊天狗": {
+   "id": 1050,
+   "url": "/static/assets/avatars/characters/1050.png"
+  },
+  "伊邪那美": {
+   "id": 1049,
+   "url": "/static/assets/avatars/characters/1049.png"
+  },
+  "前鬼坊天狗": {
+   "id": 1048,
+   "url": "/static/assets/avatars/characters/1048.png"
+  },
+  "塞尔凯特": {
+   "id": 1047,
+   "url": "/static/assets/avatars/characters/1047.png"
+  },
+  "荷鲁斯": {
+   "id": 1044,
+   "url": "/static/assets/avatars/characters/1044.png"
+  },
+  "伊里伽尔": {
+   "id": 1043,
+   "url": "/static/assets/avatars/characters/1043.png"
+  },
+  "哈迪斯": {
+   "id": 1042,
+   "url": "/static/assets/avatars/characters/1042.png"
+  },
+  "雅典娜": {
+   "id": 1041,
+   "url": "/static/assets/avatars/characters/1041.png"
+  },
+  "波塞冬": {
+   "id": 1039,
+   "url": "/static/assets/avatars/characters/1039.png"
+  },
+  "赫拉": {
+   "id": 1038,
+   "url": "/static/assets/avatars/characters/1038.png"
+  },
+  "霍德尔": {
+   "id": 1037,
+   "url": "/static/assets/avatars/characters/1037.png"
+  },
+  "索贝克": {
+   "id": 1035,
+   "url": "/static/assets/avatars/characters/1035.png"
+  },
+  "瓦吉特": {
+   "id": 1034,
+   "url": "/static/assets/avatars/characters/1034.png"
+  },
+  "海姆达尔": {
+   "id": 1033,
+   "url": "/static/assets/avatars/characters/1033.png"
+  },
+  "提尔": {
+   "id": 1032,
+   "url": "/static/assets/avatars/characters/1032.png"
+  },
+  "奥丁": {
+   "id": 1029,
+   "url": "/static/assets/avatars/characters/1029.png"
+  },
+  "托尔": {
+   "id": 1028,
+   "url": "/static/assets/avatars/characters/1028.png"
+  },
+  "利维坦": {
+   "id": 1027,
+   "url": "/static/assets/avatars/characters/1027.png"
+  },
+  "家电维修努阿达": {
+   "id": 1026,
+   "url": "/static/assets/avatars/characters/1026.png"
+  },
+  "阿努比斯": {
+   "id": 1024,
+   "url": "/static/assets/avatars/characters/1024.png"
+  },
+  "塞勒涅": {
+   "id": 1022,
+   "url": "/static/assets/avatars/characters/1022.png"
+  },
+  "阿尔忒弥斯": {
+   "id": 1021,
+   "url": "/static/assets/avatars/characters/1021.png"
+  },
+  "梵天": {
+   "id": 1020,
+   "url": "/static/assets/avatars/characters/1020.png"
+  },
+  "休": {
+   "id": 1019,
+   "url": "/static/assets/avatars/characters/1019.png"
+  },
+  "芭丝特": {
+   "id": 1017,
+   "url": "/static/assets/avatars/characters/1017.png"
+  },
+  "金固": {
+   "id": 1016,
+   "url": "/static/assets/avatars/characters/1016.png"
+  },
+  "塞赫麦特": {
+   "id": 1015,
+   "url": "/static/assets/avatars/characters/1015.png"
+  },
+  "阿修罗": {
+   "id": 1013,
+   "url": "/static/assets/avatars/characters/1013.png"
+  },
+  "白泽": {
+   "id": 1012,
+   "url": "/static/assets/avatars/characters/1012.png"
+  },
+  "奥西里斯": {
+   "id": 1011,
+   "url": "/static/assets/avatars/characters/1011.png"
+  }
+ },
+ "groups": {
+  "序小队": {
+   "id": 9001,
+   "count": 3,
+   "url": "/static/assets/avatars/groups/9001.png",
+   "members": [
+    "/static/assets/avatars/characters/1084.png",
+    "/static/assets/avatars/characters/1011.png",
+    "/static/assets/avatars/characters/1019.png"
+   ],
+   "member_ids": [
+    "1084",
+    "1011",
+    "1019"
+   ]
+  },
+  "第九部门": {
+   "id": 9002,
+   "count": 9,
+   "url": "/static/assets/avatars/groups/9002.png",
+   "members": [
+    "/static/assets/avatars/characters/1029.png",
+    "/static/assets/avatars/characters/1019.png",
+    "/static/assets/avatars/characters/1084.png",
+    "/static/assets/avatars/characters/1047.png"
+   ],
+   "member_ids": [
+    "1029",
+    "1019",
+    "1084",
+    "1047",
+    "10066",
+    "1033",
+    "1066",
+    "1027",
+    "1048"
+   ]
+  },
+  "综合科": {
+   "id": 9003,
+   "count": 3,
+   "url": "/static/assets/avatars/groups/9003.png",
+   "members": [
+    "/static/assets/avatars/characters/10066.png",
+    "/static/assets/avatars/characters/1047.png",
+    "/static/assets/avatars/characters/1019.png"
+   ],
+   "member_ids": [
+    "10066",
+    "1047",
+    "1019"
+   ]
+  },
+  "雉小队": {
+   "id": 9004,
+   "count": 4,
+   "url": "/static/assets/avatars/groups/9004.png",
+   "members": [
+    "/static/assets/avatars/characters/1093.png",
+    "/static/assets/avatars/characters/1050.png",
+    "/static/assets/avatars/characters/1099.png",
+    "/static/assets/avatars/characters/1055.png"
+   ],
+   "member_ids": [
+    "1093",
+    "1050",
+    "1099",
+    "1055"
+   ]
+  },
+  "雷小队": {
+   "id": 9005,
+   "count": 3,
+   "url": "/static/assets/avatars/groups/9005.png",
+   "members": [
+    "/static/assets/avatars/characters/1059.png",
+    "/static/assets/avatars/characters/1028.png",
+    "/static/assets/avatars/characters/1048.png"
+   ],
+   "member_ids": [
+    "1059",
+    "1028",
+    "1048"
+   ]
+  },
+  "冬小队": {
+   "id": 9006,
+   "count": 2,
+   "url": "/static/assets/avatars/groups/9006.png",
+   "members": [
+    "/static/assets/avatars/characters/1027.png",
+    "/static/assets/avatars/characters/1080.png"
+   ],
+   "member_ids": [
+    "1027",
+    "1080"
+   ]
+  },
+  "单人小队一家亲": {
+   "id": 9007,
+   "count": 3,
+   "url": "/static/assets/avatars/groups/9007.png",
+   "members": [
+    "/static/assets/avatars/characters/1094.png",
+    "/static/assets/avatars/characters/1039.png",
+    "/static/assets/avatars/characters/1081.png"
+   ],
+   "member_ids": [
+    "1094",
+    "1039",
+    "1081"
+   ]
+  },
+  "隐科组": {
+   "id": 9009,
+   "count": 2,
+   "url": "/static/assets/avatars/groups/9009.png",
+   "members": [
+    "/static/assets/avatars/characters/1033.png",
+    "/static/assets/avatars/characters/1066.png"
+   ],
+   "member_ids": [
+    "1033",
+    "1066"
+   ]
+  },
+  "漫画同好会": {
+   "id": 9010,
+   "count": 4,
+   "url": "/static/assets/avatars/groups/9010.png",
+   "members": [
+    "/static/assets/avatars/characters/10066.png",
+    "/static/assets/avatars/characters/1084.png",
+    "/static/assets/avatars/characters/1027.png",
+    "/static/assets/avatars/characters/1048.png"
+   ],
+   "member_ids": [
+    "10066",
+    "1084",
+    "1027",
+    "1048"
+   ]
+  },
+  "星虹议会": {
+   "id": 9011,
+   "count": 3,
+   "url": "/static/assets/avatars/groups/9011.png",
+   "members": [
+    "/static/assets/avatars/characters/1067.png",
+    "/static/assets/avatars/characters/1042.png",
+    "/static/assets/avatars/characters/1022.png"
+   ],
+   "member_ids": [
+    "1067",
+    "1042",
+    "1022"
+   ]
+  }
+ }
+}

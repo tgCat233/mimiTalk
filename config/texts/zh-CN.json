@@ -1,0 +1,8 @@
+{
+  "app.title": "P3",
+  "app.subtitle": "S0 工程骨架占位页",
+  "status.ok": "后端连接正常",
+  "status.connecting": "连接后端中…",
+  "status.error": "后端未连接",
+  "recall_notice": "管理员撤回了一条消息"
+}

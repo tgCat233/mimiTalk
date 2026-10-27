@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node
+node_modules/
+web/dist/
+test-results/
+playwright-report/
+
+# 本地配置（含密钥）
+config/p3.toml
+
+# 本地数据（数据库 / 上传 / TTS / 收藏）
+data/
+config/favorites.json
+
+# 日志
+*.log
+
+# 说明：v0.1.2 的 config/personas/*.persona.json 是运行时默认，不忽略；
+# v0.1.3 起用户覆盖层在 %APPDATA%\P3\personas，发布同步时另行排除。

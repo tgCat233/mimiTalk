@@ -1,0 +1,2182 @@
+{
+ "categories": [
+  {
+   "id": -1,
+   "name": "10000@zh",
+   "stickers": [
+    {
+     "id": "10000@zh_cn",
+     "name": "10000@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10000@zh_cn/sprite/10000@zh_cn.png"
+    },
+    {
+     "id": "10002@zh_cn",
+     "name": "10002@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10002@zh_cn/sprite/10002@zh_cn.png"
+    },
+    {
+     "id": "10003@zh_cn",
+     "name": "10003@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10003@zh_cn/sprite/10003@zh_cn.png"
+    },
+    {
+     "id": "10005@zh_cn",
+     "name": "10005@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10005@zh_cn/sprite/10005@zh_cn.png"
+    },
+    {
+     "id": "10006@zh_cn",
+     "name": "10006@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10006@zh_cn/sprite/10006@zh_cn.png"
+    },
+    {
+     "id": "10007@zh_cn",
+     "name": "10007@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10007@zh_cn/sprite/10007@zh_cn.png"
+    },
+    {
+     "id": "10008@zh_cn",
+     "name": "10008@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10008@zh_cn/sprite/10008@zh_cn.png"
+    },
+    {
+     "id": "10009@zh_cn",
+     "name": "10009@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10009@zh_cn/sprite/10009@zh_cn.png"
+    },
+    {
+     "id": "10010@zh_cn",
+     "name": "10010@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10010@zh_cn/sprite/10010@zh_cn.png"
+    },
+    {
+     "id": "10011@zh_cn",
+     "name": "10011@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10011@zh_cn/sprite/10011@zh_cn.png"
+    },
+    {
+     "id": "10012@zh_cn",
+     "name": "10012@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10012@zh_cn/sprite/10012@zh_cn.png"
+    },
+    {
+     "id": "10013@zh_cn",
+     "name": "10013@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10013@zh_cn/sprite/10013@zh_cn.png"
+    },
+    {
+     "id": "10014@zh_cn",
+     "name": "10014@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10014@zh_cn/sprite/10014@zh_cn.png"
+    },
+    {
+     "id": "10015@zh_cn",
+     "name": "10015@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10015@zh_cn/sprite/10015@zh_cn.png"
+    },
+    {
+     "id": "10020@zh_cn",
+     "name": "10020@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10020@zh_cn/sprite/10020@zh_cn.png"
+    },
+    {
+     "id": "10021@zh_cn",
+     "name": "10021@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10021@zh_cn/sprite/10021@zh_cn.png"
+    },
+    {
+     "id": "10022@zh_cn",
+     "name": "10022@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10022@zh_cn/sprite/10022@zh_cn.png"
+    },
+    {
+     "id": "10023@zh_cn",
+     "name": "10023@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10023@zh_cn/sprite/10023@zh_cn.png"
+    },
+    {
+     "id": "10026@zh_cn",
+     "name": "10026@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10026@zh_cn/sprite/10026@zh_cn.png"
+    },
+    {
+     "id": "10029@zh_cn",
+     "name": "10029@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10029@zh_cn/sprite/10029@zh_cn.png"
+    },
+    {
+     "id": "10030@zh_cn",
+     "name": "10030@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10030@zh_cn/sprite/10030@zh_cn.png"
+    },
+    {
+     "id": "10032@zh_cn",
+     "name": "10032@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10032@zh_cn/sprite/10032@zh_cn.png"
+    },
+    {
+     "id": "10033@zh_cn",
+     "name": "10033@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10033@zh_cn/sprite/10033@zh_cn.png"
+    },
+    {
+     "id": "10034@zh_cn",
+     "name": "10034@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10034@zh_cn/sprite/10034@zh_cn.png"
+    },
+    {
+     "id": "10035@zh_cn",
+     "name": "10035@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10035@zh_cn/sprite/10035@zh_cn.png"
+    },
+    {
+     "id": "10036@zh_cn",
+     "name": "10036@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10036@zh_cn/sprite/10036@zh_cn.png"
+    },
+    {
+     "id": "10037@zh_cn",
+     "name": "10037@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10037@zh_cn/sprite/10037@zh_cn.png"
+    },
+    {
+     "id": "10038@zh_cn",
+     "name": "10038@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10038@zh_cn/sprite/10038@zh_cn.png"
+    },
+    {
+     "id": "10039@zh_cn",
+     "name": "10039@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10039@zh_cn/sprite/10039@zh_cn.png"
+    },
+    {
+     "id": "10040@zh_cn",
+     "name": "10040@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10040@zh_cn/sprite/10040@zh_cn.png"
+    },
+    {
+     "id": "10046@zh_cn",
+     "name": "10046@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10046@zh_cn/sprite/10046@zh_cn.png"
+    },
+    {
+     "id": "10047@zh_cn",
+     "name": "10047@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10047@zh_cn/sprite/10047@zh_cn.png"
+    },
+    {
+     "id": "10048@zh_cn",
+     "name": "10048@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10048@zh_cn/sprite/10048@zh_cn.png"
+    },
+    {
+     "id": "10058@zh_cn",
+     "name": "10058@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10058@zh_cn/sprite/10058@zh_cn.png"
+    },
+    {
+     "id": "10062@zh_cn",
+     "name": "10062@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10062@zh_cn/sprite/10062@zh_cn.png"
+    },
+    {
+     "id": "10065@zh_cn",
+     "name": "10065@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10065@zh_cn/sprite/10065@zh_cn.png"
+    },
+    {
+     "id": "10076@zh_cn",
+     "name": "10076@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10076@zh_cn/sprite/10076@zh_cn.png"
+    },
+    {
+     "id": "10081@zh_cn",
+     "name": "10081@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10081@zh_cn/sprite/10081@zh_cn.png"
+    },
+    {
+     "id": "10090@zh_cn",
+     "name": "10090@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10090@zh_cn/sprite/10090@zh_cn.png"
+    },
+    {
+     "id": "10095@zh_cn",
+     "name": "10095@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10095@zh_cn/sprite/10095@zh_cn.png"
+    },
+    {
+     "id": "10108@zh_cn",
+     "name": "10108@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10108@zh_cn/sprite/10108@zh_cn.png"
+    },
+    {
+     "id": "10116@zh_cn",
+     "name": "10116@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10116@zh_cn/sprite/10116@zh_cn.png"
+    },
+    {
+     "id": "10121@zh_cn",
+     "name": "10121@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10121@zh_cn/sprite/10121@zh_cn.png"
+    },
+    {
+     "id": "10123@zh_cn",
+     "name": "10123@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10123@zh_cn/sprite/10123@zh_cn.png"
+    },
+    {
+     "id": "10130@zh_cn",
+     "name": "10130@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10130@zh_cn/sprite/10130@zh_cn.png"
+    },
+    {
+     "id": "10134@zh_cn",
+     "name": "10134@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10134@zh_cn/sprite/10134@zh_cn.png"
+    },
+    {
+     "id": "10137_00",
+     "name": "10137_00",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10137_00/sprite/10137_00.png"
+    },
+    {
+     "id": "10160@zh_cn",
+     "name": "10160@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10160@zh_cn/sprite/10160@zh_cn.png"
+    },
+    {
+     "id": "10176@zh_cn",
+     "name": "10176@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10176@zh_cn/sprite/10176@zh_cn.png"
+    },
+    {
+     "id": "10193@zh_cn",
+     "name": "10193@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10193@zh_cn/sprite/10193@zh_cn.png"
+    },
+    {
+     "id": "10194@zh_cn",
+     "name": "10194@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10194@zh_cn/sprite/10194@zh_cn.png"
+    },
+    {
+     "id": "10207@zh_cn",
+     "name": "10207@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10207@zh_cn/sprite/10207@zh_cn.png"
+    },
+    {
+     "id": "10225@zh_cn",
+     "name": "10225@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10225@zh_cn/sprite/10225@zh_cn.png"
+    },
+    {
+     "id": "10239@zh_cn",
+     "name": "10239@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10239@zh_cn/sprite/10239@zh_cn.png"
+    },
+    {
+     "id": "10240@zh_cn",
+     "name": "10240@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10240@zh_cn/sprite/10240@zh_cn.png"
+    },
+    {
+     "id": "10241@zh_cn",
+     "name": "10241@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10241@zh_cn/sprite/10241@zh_cn.png"
+    },
+    {
+     "id": "10242@zh_cn",
+     "name": "10242@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10242@zh_cn/sprite/10242@zh_cn.png"
+    },
+    {
+     "id": "10260@zh_cn",
+     "name": "10260@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10260@zh_cn/sprite/10260@zh_cn.png"
+    },
+    {
+     "id": "10268@zh_cn",
+     "name": "10268@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10268@zh_cn/sprite/10268@zh_cn.png"
+    },
+    {
+     "id": "10269@zh_cn",
+     "name": "10269@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10269@zh_cn/sprite/10269@zh_cn.png"
+    },
+    {
+     "id": "10270@zh_cn",
+     "name": "10270@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10270@zh_cn/sprite/10270@zh_cn.png"
+    },
+    {
+     "id": "10271@zh_cn",
+     "name": "10271@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10271@zh_cn/sprite/10271@zh_cn.png"
+    },
+    {
+     "id": "10272@zh_cn",
+     "name": "10272@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10272@zh_cn/sprite/10272@zh_cn.png"
+    },
+    {
+     "id": "10273@zh_cn",
+     "name": "10273@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10273@zh_cn/sprite/10273@zh_cn.png"
+    },
+    {
+     "id": "10274@zh_cn",
+     "name": "10274@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10274@zh_cn/sprite/10274@zh_cn.png"
+    },
+    {
+     "id": "10275@zh_cn",
+     "name": "10275@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10275@zh_cn/sprite/10275@zh_cn.png"
+    },
+    {
+     "id": "10304@zh_cn",
+     "name": "10304@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10304@zh_cn/sprite/10304@zh_cn.png"
+    },
+    {
+     "id": "10305@zh_cn",
+     "name": "10305@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10305@zh_cn/sprite/10305@zh_cn.png"
+    },
+    {
+     "id": "10306@zh_cn",
+     "name": "10306@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10306@zh_cn/sprite/10306@zh_cn.png"
+    },
+    {
+     "id": "10307@zh_cn",
+     "name": "10307@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10307@zh_cn/sprite/10307@zh_cn.png"
+    },
+    {
+     "id": "10337@zh_cn",
+     "name": "10337@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10337@zh_cn/sprite/10337@zh_cn.png"
+    },
+    {
+     "id": "10345@zh_cn",
+     "name": "10345@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10345@zh_cn/sprite/10345@zh_cn.png"
+    },
+    {
+     "id": "10346@zh_cn",
+     "name": "10346@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10346@zh_cn/sprite/10346@zh_cn.png"
+    },
+    {
+     "id": "10347@zh_cn",
+     "name": "10347@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10347@zh_cn/sprite/10347@zh_cn.png"
+    },
+    {
+     "id": "10348@zh_cn",
+     "name": "10348@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10348@zh_cn/sprite/10348@zh_cn.png"
+    },
+    {
+     "id": "10349@zh_cn",
+     "name": "10349@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10349@zh_cn/sprite/10349@zh_cn.png"
+    },
+    {
+     "id": "10350@zh_cn",
+     "name": "10350@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10350@zh_cn/sprite/10350@zh_cn.png"
+    },
+    {
+     "id": "10351@zh_cn",
+     "name": "10351@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10351@zh_cn/sprite/10351@zh_cn.png"
+    },
+    {
+     "id": "10352@zh_cn",
+     "name": "10352@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10352@zh_cn/sprite/10352@zh_cn.png"
+    },
+    {
+     "id": "10355@zh_cn",
+     "name": "10355@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10355@zh_cn/sprite/10355@zh_cn.png"
+    },
+    {
+     "id": "10361@zh_cn",
+     "name": "10361@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10361@zh_cn/sprite/10361@zh_cn.png"
+    },
+    {
+     "id": "10363@zh_cn",
+     "name": "10363@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10363@zh_cn/sprite/10363@zh_cn.png"
+    },
+    {
+     "id": "10364@zh_cn",
+     "name": "10364@zh_cn",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10364@zh_cn/sprite/10364@zh_cn.png"
+    },
+    {
+     "id": "icon_heart",
+     "name": "icon_heart",
+     "category": -1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_icon_heart/sprite/icon_heart.png"
+    }
+   ]
+  },
+  {
+   "id": 0,
+   "name": "自定义表情图标",
+   "stickers": [
+    {
+     "id": "icon_face_add",
+     "name": "自定义表情图标",
+     "category": 0,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_icon_face_add/sprite/icon_face_add.png"
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "name": "波塞冬",
+   "stickers": [
+    {
+     "id": "10001",
+     "name": "波塞冬_OK",
+     "category": 1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10001/sprite/10001.png"
+    },
+    {
+     "id": "10004",
+     "name": "利维坦_看手机",
+     "category": 1,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10004/sprite/10004.png"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "name": "月读",
+   "stickers": [
+    {
+     "id": "10016",
+     "name": "月读_无语",
+     "category": 2,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10016/sprite/10016.png"
+    },
+    {
+     "id": "10017",
+     "name": "前鬼坊天狗_吃瓜",
+     "category": 2,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10017/sprite/10017.png"
+    },
+    {
+     "id": "10018",
+     "name": "奥西里斯_+1",
+     "category": 2,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10018/sprite/10018.png"
+    },
+    {
+     "id": "10019",
+     "name": "利维坦_哭哭",
+     "category": 2,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10019/sprite/10019.png"
+    },
+    {
+     "id": "10024",
+     "name": "弥芙尔_摸鱼",
+     "category": 2,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10024/sprite/10024.png"
+    },
+    {
+     "id": "10025",
+     "name": "弥弥尔_白眼",
+     "category": 2,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10025/sprite/10025.png"
+    },
+    {
+     "id": "10027",
+     "name": "赫拉_恼火",
+     "category": 2,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10027/sprite/10027.png"
+    },
+    {
+     "id": "10028",
+     "name": "丰前坊天狗_哭哭",
+     "category": 2,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10028/sprite/10028.png"
+    },
+    {
+     "id": "10031",
+     "name": "赫拉_震惊",
+     "category": 2,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10031/sprite/10031.png"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "赫拉",
+   "stickers": [
+    {
+     "id": "10041",
+     "name": "赫拉_自信",
+     "category": 4,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10041/sprite/10041.png"
+    },
+    {
+     "id": "10042",
+     "name": "赫拉_饮茶",
+     "category": 4,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10042/sprite/10042.png"
+    },
+    {
+     "id": "10043",
+     "name": "赫拉_哼",
+     "category": 4,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10043/sprite/10043.png"
+    },
+    {
+     "id": "10044",
+     "name": "赫拉_扶额",
+     "category": 4,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10044/sprite/10044.png"
+    },
+    {
+     "id": "10045",
+     "name": "赫尔墨斯_搬砖",
+     "category": 4,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10045/sprite/10045.png"
+    },
+    {
+     "id": "10049",
+     "name": "海拉_耶",
+     "category": 4,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10049/sprite/10049.png"
+    },
+    {
+     "id": "10050",
+     "name": "海拉_看蝴蝶",
+     "category": 4,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10050/sprite/10050.png"
+    },
+    {
+     "id": "10051",
+     "name": "海拉_懒得理你",
+     "category": 4,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10051/sprite/10051.png"
+    },
+    {
+     "id": "10052",
+     "name": "海拉_晚安",
+     "category": 4,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10052/sprite/10052.png"
+    },
+    {
+     "id": "10053",
+     "name": "前鬼坊天狗_酸了",
+     "category": 4,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10053/sprite/10053.png"
+    },
+    {
+     "id": "10054",
+     "name": "前鬼坊天狗_大笑",
+     "category": 4,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10054/sprite/10054.png"
+    },
+    {
+     "id": "10055",
+     "name": "前鬼坊天狗_鬼脸",
+     "category": 4,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10055/sprite/10055.png"
+    },
+    {
+     "id": "10056",
+     "name": "前鬼坊天狗_开炮",
+     "category": 4,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10056/sprite/10056.png"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "利维坦",
+   "stickers": [
+    {
+     "id": "10057",
+     "name": "利维坦_期待",
+     "category": 5,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10057/sprite/10057.png"
+    },
+    {
+     "id": "10059",
+     "name": "国常立_悠闲",
+     "category": 5,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10059/sprite/10059.png"
+    },
+    {
+     "id": "10060",
+     "name": "利维坦_冒泡",
+     "category": 5,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10060/sprite/10060.png"
+    },
+    {
+     "id": "10061",
+     "name": "国常立_奖励",
+     "category": 5,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10061/sprite/10061.png"
+    },
+    {
+     "id": "10063",
+     "name": "利维坦_顿悟",
+     "category": 5,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10063/sprite/10063.png"
+    },
+    {
+     "id": "10064",
+     "name": "大国主_吃冰棍",
+     "category": 5,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10064/sprite/10064.png"
+    },
+    {
+     "id": "10066",
+     "name": "利维坦_凉快",
+     "category": 5,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10066/sprite/10066.png"
+    },
+    {
+     "id": "10067",
+     "name": "利维坦_生气",
+     "category": 5,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10067/sprite/10067.png"
+    },
+    {
+     "id": "10068",
+     "name": "国常立_被滋",
+     "category": 5,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10068/sprite/10068.png"
+    },
+    {
+     "id": "10069",
+     "name": "丝卡蒂_老司机",
+     "category": 5,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10069/sprite/10069.png"
+    },
+    {
+     "id": "10070",
+     "name": "大国主_不行",
+     "category": 5,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10070/sprite/10070.png"
+    },
+    {
+     "id": "10071",
+     "name": "丝卡蒂_滋水枪",
+     "category": 5,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10071/sprite/10071.png"
+    },
+    {
+     "id": "10072",
+     "name": "伽梨_给你一拳",
+     "category": 5,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10072/sprite/10072.png"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "name": "哈迪斯",
+   "stickers": [
+    {
+     "id": "10073",
+     "name": "哈迪斯_就这",
+     "category": 6,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10073/sprite/10073.png"
+    },
+    {
+     "id": "10074",
+     "name": "哈迪斯_嘘",
+     "category": 6,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10074/sprite/10074.png"
+    },
+    {
+     "id": "10075",
+     "name": "明塔&琉刻_比心",
+     "category": 6,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10075/sprite/10075.png"
+    },
+    {
+     "id": "10077",
+     "name": "俄尼里伊_困了",
+     "category": 6,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10077/sprite/10077.png"
+    },
+    {
+     "id": "10078",
+     "name": "俄尼里伊_吃糖",
+     "category": 6,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10078/sprite/10078.png"
+    },
+    {
+     "id": "10079",
+     "name": "俄尼里伊_丢",
+     "category": 6,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10079/sprite/10079.png"
+    },
+    {
+     "id": "10080",
+     "name": "俄尼里伊_摸头",
+     "category": 6,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10080/sprite/10080.png"
+    },
+    {
+     "id": "10082",
+     "name": "迦具土_凄凉",
+     "category": 6,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10082/sprite/10082.png"
+    },
+    {
+     "id": "10083",
+     "name": "迦具土_石化",
+     "category": 6,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10083/sprite/10083.png"
+    },
+    {
+     "id": "10084",
+     "name": "迦具土_砍你",
+     "category": 6,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10084/sprite/10084.png"
+    },
+    {
+     "id": "10085",
+     "name": "休_辛苦了",
+     "category": 6,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10085/sprite/10085.png"
+    },
+    {
+     "id": "10086",
+     "name": "休_不干了",
+     "category": 6,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10086/sprite/10086.png"
+    },
+    {
+     "id": "10087",
+     "name": "休_头脑发热",
+     "category": 6,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10087/sprite/10087.png"
+    },
+    {
+     "id": "10088",
+     "name": "休_压力",
+     "category": 6,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10088/sprite/10088.png"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "雅典娜",
+   "stickers": [
+    {
+     "id": "10089",
+     "name": "雅典娜_查房",
+     "category": 7,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10089/sprite/10089.png"
+    },
+    {
+     "id": "10091",
+     "name": "雅典娜_挫败",
+     "category": 7,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10091/sprite/10091.png"
+    },
+    {
+     "id": "10092",
+     "name": "雅典娜_不许动",
+     "category": 7,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10092/sprite/10092.png"
+    },
+    {
+     "id": "10093",
+     "name": "雅典娜_拉琴",
+     "category": 7,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10093/sprite/10093.png"
+    },
+    {
+     "id": "10094",
+     "name": "欧申纳斯_炸了",
+     "category": 7,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10094/sprite/10094.png"
+    },
+    {
+     "id": "10096",
+     "name": "欧申纳斯_不满",
+     "category": 7,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10096/sprite/10096.png"
+    },
+    {
+     "id": "10097",
+     "name": "欧申纳斯_察觉",
+     "category": 7,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10097/sprite/10097.png"
+    },
+    {
+     "id": "10098",
+     "name": "欧申纳斯_我全都要",
+     "category": 7,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10098/sprite/10098.png"
+    },
+    {
+     "id": "10099",
+     "name": "恩利尔_头晕",
+     "category": 7,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10099/sprite/10099.png"
+    },
+    {
+     "id": "10100",
+     "name": "恩利尔_打扫",
+     "category": 7,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10100/sprite/10100.png"
+    },
+    {
+     "id": "10101",
+     "name": "恩利尔_绅士",
+     "category": 7,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10101/sprite/10101.png"
+    },
+    {
+     "id": "10102",
+     "name": "海姆达尔_加油",
+     "category": 7,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10102/sprite/10102.png"
+    },
+    {
+     "id": "10103",
+     "name": "海姆达尔_干劲十足",
+     "category": 7,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10103/sprite/10103.png"
+    },
+    {
+     "id": "10104",
+     "name": "海姆达尔_灵光一闪",
+     "category": 7,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10104/sprite/10104.png"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "马尔杜克",
+   "stickers": [
+    {
+     "id": "10105",
+     "name": "马尔杜克_吃肉",
+     "category": 8,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10105/sprite/10105.png"
+    },
+    {
+     "id": "10106",
+     "name": "马尔杜克_掰手腕",
+     "category": 8,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10106/sprite/10106.png"
+    },
+    {
+     "id": "10107",
+     "name": "马尔杜克_轰飞",
+     "category": 8,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10107/sprite/10107.png"
+    },
+    {
+     "id": "10109",
+     "name": "金固_拳头硬了",
+     "category": 8,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10109/sprite/10109.png"
+    },
+    {
+     "id": "10110",
+     "name": "金固_理直气壮嚣张",
+     "category": 8,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10110/sprite/10110.png"
+    },
+    {
+     "id": "10111",
+     "name": "金固_挨揍",
+     "category": 8,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10111/sprite/10111.png"
+    },
+    {
+     "id": "10112",
+     "name": "阿努比斯_举手",
+     "category": 8,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10112/sprite/10112.png"
+    },
+    {
+     "id": "10113",
+     "name": "阿努比斯_拒绝",
+     "category": 8,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10113/sprite/10113.png"
+    },
+    {
+     "id": "10114",
+     "name": "阿努比斯_警告",
+     "category": 8,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10114/sprite/10114.png"
+    },
+    {
+     "id": "10115",
+     "name": "阿努比斯_带走",
+     "category": 8,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10115/sprite/10115.png"
+    },
+    {
+     "id": "10117",
+     "name": "芭丝特_瑟瑟发抖",
+     "category": 8,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10117/sprite/10117.png"
+    },
+    {
+     "id": "10118",
+     "name": "芭丝特_猫猫祟祟",
+     "category": 8,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10118/sprite/10118.png"
+    },
+    {
+     "id": "10119",
+     "name": "芭丝特_wink",
+     "category": 8,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10119/sprite/10119.png"
+    },
+    {
+     "id": "10120",
+     "name": "芭丝特_可以不用战斗了",
+     "category": 8,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10120/sprite/10120.png"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "陵光",
+   "stickers": [
+    {
+     "id": "10122",
+     "name": "陵光_该吃药了",
+     "category": 9,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10122/sprite/10122.png"
+    },
+    {
+     "id": "10124",
+     "name": "孟章_摆烂",
+     "category": 9,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10124/sprite/10124.png"
+    },
+    {
+     "id": "10125",
+     "name": "孟章_你小子",
+     "category": 9,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10125/sprite/10125.png"
+    },
+    {
+     "id": "10126",
+     "name": "禄良_阴阳怪气",
+     "category": 9,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10126/sprite/10126.png"
+    },
+    {
+     "id": "10127",
+     "name": "金乌_欢呼",
+     "category": 9,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10127/sprite/10127.png"
+    },
+    {
+     "id": "10128",
+     "name": "金乌_萌混过关",
+     "category": 9,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10128/sprite/10128.png"
+    },
+    {
+     "id": "10129",
+     "name": "金乌_流口水",
+     "category": 9,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10129/sprite/10129.png"
+    },
+    {
+     "id": "10131",
+     "name": "庚辰_吃馒头",
+     "category": 9,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10131/sprite/10131.png"
+    },
+    {
+     "id": "10132",
+     "name": "庚辰_宕机",
+     "category": 9,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10132/sprite/10132.png"
+    },
+    {
+     "id": "10133",
+     "name": "禄良_大佬",
+     "category": 9,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10133/sprite/10133.png"
+    },
+    {
+     "id": "10135",
+     "name": "禄良_发财",
+     "category": 9,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10135/sprite/10135.png"
+    },
+    {
+     "id": "10136",
+     "name": "薇儿丹蒂_生日快乐",
+     "category": 9,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10136/sprite/10136.png"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "name": "迦具土",
+   "stickers": [
+    {
+     "id": "10142",
+     "name": "迦具土_自闭",
+     "category": 11,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10142/sprite/10142.png"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "name": "暗御津羽·瑟瑟发抖",
+   "stickers": [
+    {
+     "id": "10151",
+     "name": "暗御津羽·瑟瑟发抖",
+     "category": 12,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10151/sprite/10151.png"
+    },
+    {
+     "id": "10152",
+     "name": "暗御津羽·鬼脸",
+     "category": 12,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10152/sprite/10152.png"
+    },
+    {
+     "id": "10153",
+     "name": "暗御津羽·快瞧",
+     "category": 12,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10153/sprite/10153.png"
+    },
+    {
+     "id": "10154",
+     "name": "暗御津羽·金鱼记忆",
+     "category": 12,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10154/sprite/10154.png"
+    },
+    {
+     "id": "10155",
+     "name": "伊邪那美·观望",
+     "category": 12,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10155/sprite/10155.png"
+    },
+    {
+     "id": "10156",
+     "name": "伊邪那美·不也挺好",
+     "category": 12,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10156/sprite/10156.png"
+    },
+    {
+     "id": "10157",
+     "name": "伊邪那美·自闭",
+     "category": 12,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10157/sprite/10157.png"
+    },
+    {
+     "id": "10158",
+     "name": "伊邪那美·比心",
+     "category": 12,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10158/sprite/10158.png"
+    },
+    {
+     "id": "10159",
+     "name": "伊邪那美·突然出现",
+     "category": 12,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10159/sprite/10159.png"
+    },
+    {
+     "id": "10161",
+     "name": "迦具土·拔刀",
+     "category": 12,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10161/sprite/10161.png"
+    },
+    {
+     "id": "10162",
+     "name": "迦具土·瘫",
+     "category": 12,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10162/sprite/10162.png"
+    },
+    {
+     "id": "10172",
+     "name": "丰前坊天狗·抱歉",
+     "category": 12,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10172/sprite/10172.png"
+    },
+    {
+     "id": "10173",
+     "name": "丰前坊天狗·兜风",
+     "category": 12,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10173/sprite/10173.png"
+    },
+    {
+     "id": "10174",
+     "name": "丰前坊天狗·累了雷葬吧",
+     "category": 12,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10174/sprite/10174.png"
+    },
+    {
+     "id": "10175",
+     "name": "丰前坊天狗·冷静分析",
+     "category": 12,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10175/sprite/10175.png"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "name": "薇儿丹蒂·汗流浃背",
+   "stickers": [
+    {
+     "id": "10177",
+     "name": "薇儿丹蒂·汗流浃背",
+     "category": 14,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10177/sprite/10177.png"
+    },
+    {
+     "id": "10178",
+     "name": "薇儿丹蒂·大哭",
+     "category": 14,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10178/sprite/10178.png"
+    },
+    {
+     "id": "10179",
+     "name": "薇儿丹蒂·耶",
+     "category": 14,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10179/sprite/10179.png"
+    },
+    {
+     "id": "10180",
+     "name": "托特·偷笑",
+     "category": 14,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10180/sprite/10180.png"
+    },
+    {
+     "id": "10181",
+     "name": "托特·干杯",
+     "category": 14,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10181/sprite/10181.png"
+    },
+    {
+     "id": "10182",
+     "name": "托特·喝茶",
+     "category": 14,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10182/sprite/10182.png"
+    },
+    {
+     "id": "10183",
+     "name": "托特·摊手",
+     "category": 14,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10183/sprite/10183.png"
+    },
+    {
+     "id": "10184",
+     "name": "诗蔻蒂·爱你",
+     "category": 14,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10184/sprite/10184.png"
+    },
+    {
+     "id": "10185",
+     "name": "诗蔻蒂·想你",
+     "category": 14,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10185/sprite/10185.png"
+    },
+    {
+     "id": "10186",
+     "name": "诗蔻蒂·欢呼",
+     "category": 14,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10186/sprite/10186.png"
+    },
+    {
+     "id": "10187",
+     "name": "诗蔻蒂·点赞",
+     "category": 14,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10187/sprite/10187.png"
+    },
+    {
+     "id": "10188",
+     "name": "塞赫麦特·让我看看",
+     "category": 14,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10188/sprite/10188.png"
+    },
+    {
+     "id": "10189",
+     "name": "塞赫麦特·炸毛",
+     "category": 14,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10189/sprite/10189.png"
+    },
+    {
+     "id": "10190",
+     "name": "塞赫麦特·我不听",
+     "category": 14,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10190/sprite/10190.png"
+    },
+    {
+     "id": "10191",
+     "name": "塞赫麦特·你醒啦",
+     "category": 14,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10191/sprite/10191.png"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "name": "俄尼里伊-打瞌睡",
+   "stickers": [
+    {
+     "id": "10192",
+     "name": "俄尼里伊-打瞌睡",
+     "category": 15,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10192/sprite/10192.png"
+    },
+    {
+     "id": "10195",
+     "name": "俄尼里伊-气鼓鼓",
+     "category": 15,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10195/sprite/10195.png"
+    },
+    {
+     "id": "10201",
+     "name": "波塞冬·wink",
+     "category": 15,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10201/sprite/10201.png"
+    },
+    {
+     "id": "10202",
+     "name": "塞勒涅·唱歌",
+     "category": 15,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10202/sprite/10202.png"
+    },
+    {
+     "id": "10203",
+     "name": "阿尔忒弥斯·吃瓜",
+     "category": 15,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10203/sprite/10203.png"
+    },
+    {
+     "id": "10204",
+     "name": "伊邪那美·潜水",
+     "category": 15,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10204/sprite/10204.png"
+    },
+    {
+     "id": "10208",
+     "name": "塞勒涅·嘘",
+     "category": 15,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10208/sprite/10208.png"
+    },
+    {
+     "id": "10209",
+     "name": "阿尔忒弥斯·傲娇",
+     "category": 15,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10209/sprite/10209.png"
+    },
+    {
+     "id": "10210",
+     "name": "阿尔忒弥斯·马卡龙",
+     "category": 15,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10210/sprite/10210.png"
+    },
+    {
+     "id": "10211",
+     "name": "阿尔忒弥斯·有瓜",
+     "category": 15,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10211/sprite/10211.png"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "name": "执明·吃面",
+   "stickers": [
+    {
+     "id": "10205",
+     "name": "执明·吃面",
+     "category": 16,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10205/sprite/10205.png"
+    },
+    {
+     "id": "10206",
+     "name": "执明·深思",
+     "category": 16,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10206/sprite/10206.png"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "name": "梵天·好好次",
+   "stickers": [
+    {
+     "id": "10212",
+     "name": "梵天·好好次",
+     "category": 17,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10212/sprite/10212.png"
+    },
+    {
+     "id": "10213",
+     "name": "梵天·恐吓",
+     "category": 17,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10213/sprite/10213.png"
+    },
+    {
+     "id": "10214",
+     "name": "梵天·洋洋得意",
+     "category": 17,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10214/sprite/10214.png"
+    },
+    {
+     "id": "10215",
+     "name": "伽梨·姐来咯",
+     "category": 17,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10215/sprite/10215.png"
+    },
+    {
+     "id": "10216",
+     "name": "伽梨·看我的",
+     "category": 17,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10216/sprite/10216.png"
+    },
+    {
+     "id": "10217",
+     "name": "伽梨·煮咖喱",
+     "category": 17,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10217/sprite/10217.png"
+    },
+    {
+     "id": "10220",
+     "name": "帕尔瓦蒂·开摆",
+     "category": 17,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10220/sprite/10220.png"
+    },
+    {
+     "id": "10221",
+     "name": "帕尔瓦蒂·疲惫",
+     "category": 17,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10221/sprite/10221.png"
+    },
+    {
+     "id": "10222",
+     "name": "帕尔瓦蒂·丧气",
+     "category": 17,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10222/sprite/10222.png"
+    },
+    {
+     "id": "10223",
+     "name": "帕尔瓦蒂·无聊",
+     "category": 17,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10223/sprite/10223.png"
+    },
+    {
+     "id": "10224",
+     "name": "帕尔瓦蒂·下班",
+     "category": 17,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10224/sprite/10224.png"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "name": "前鬼坊天狗·大头怼屏幕",
+   "stickers": [
+    {
+     "id": "10229",
+     "name": "前鬼坊天狗·大头怼屏幕",
+     "category": 18,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10229/sprite/10229.png"
+    },
+    {
+     "id": "10230",
+     "name": "前鬼坊天狗·嘟嘟嘴",
+     "category": 18,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10230/sprite/10230.png"
+    },
+    {
+     "id": "10231",
+     "name": "前鬼坊天狗·好耶",
+     "category": 18,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10231/sprite/10231.png"
+    },
+    {
+     "id": "10232",
+     "name": "前鬼坊天狗·和善",
+     "category": 18,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10232/sprite/10232.png"
+    },
+    {
+     "id": "10233",
+     "name": "海姆达尔·沉迷科研",
+     "category": 18,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10233/sprite/10233.png"
+    },
+    {
+     "id": "10234",
+     "name": "海姆达尔·分析不出来",
+     "category": 18,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10234/sprite/10234.png"
+    },
+    {
+     "id": "10235",
+     "name": "海姆达尔·冷静分析",
+     "category": 18,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10235/sprite/10235.png"
+    },
+    {
+     "id": "10236",
+     "name": "海姆达尔·十分满意",
+     "category": 18,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10236/sprite/10236.png"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "name": "金乌·福到好运到",
+   "stickers": [
+    {
+     "id": "10237",
+     "name": "金乌·福到好运到",
+     "category": 19,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10237/sprite/10237.png"
+    },
+    {
+     "id": "10238",
+     "name": "瓦吉特·红包拿来",
+     "category": 19,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10238/sprite/10238.png"
+    },
+    {
+     "id": "10243",
+     "name": "禄良·财神到",
+     "category": 19,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10243/sprite/10243.png"
+    },
+    {
+     "id": "10244",
+     "name": "金乌·放马过来",
+     "category": 19,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10244/sprite/10244.png"
+    },
+    {
+     "id": "10245",
+     "name": "陵光·喝茶",
+     "category": 19,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10245/sprite/10245.png"
+    },
+    {
+     "id": "10246",
+     "name": "陵光·绣珠",
+     "category": 19,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10246/sprite/10246.png"
+    },
+    {
+     "id": "10247",
+     "name": "瓦吉特·送礼啦",
+     "category": 19,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10247/sprite/10247.png"
+    },
+    {
+     "id": "10248",
+     "name": "瓦吉特·画蛇蛇",
+     "category": 19,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10248/sprite/10248.png"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "name": "诗蔻蒂·晚安",
+   "stickers": [
+    {
+     "id": "10226",
+     "name": "诗蔻蒂·晚安",
+     "category": 20,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10226/sprite/10226.png"
+    },
+    {
+     "id": "10227",
+     "name": "诗蔻蒂·期待",
+     "category": 20,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10227/sprite/10227.png"
+    },
+    {
+     "id": "10228",
+     "name": "诗蔻蒂·挥手",
+     "category": 20,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10228/sprite/10228.png"
+    },
+    {
+     "id": "10296",
+     "name": "奥西里斯·不好意思",
+     "category": 20,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10296/sprite/10296.png"
+    },
+    {
+     "id": "10297",
+     "name": "奥西里斯·为什么",
+     "category": 20,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10297/sprite/10297.png"
+    },
+    {
+     "id": "10298",
+     "name": "麟钰·撒盐",
+     "category": 20,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10298/sprite/10298.png"
+    },
+    {
+     "id": "10299",
+     "name": "麟钰·糖葫芦",
+     "category": 20,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10299/sprite/10299.png"
+    },
+    {
+     "id": "10300",
+     "name": "诗蔻蒂·瞌睡",
+     "category": 20,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10300/sprite/10300.png"
+    },
+    {
+     "id": "10301",
+     "name": "诗蔻蒂·拍照",
+     "category": 20,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10301/sprite/10301.png"
+    },
+    {
+     "id": "10302",
+     "name": "诗蔻蒂·睡觉",
+     "category": 20,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10302/sprite/10302.png"
+    },
+    {
+     "id": "10303",
+     "name": "诗蔻蒂·纸飞机",
+     "category": 20,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10303/sprite/10303.png"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "name": "瓦吉特·打草惊蛇",
+   "stickers": [
+    {
+     "id": "10249",
+     "name": "瓦吉特·打草惊蛇",
+     "category": 21,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10249/sprite/10249.png"
+    },
+    {
+     "id": "10250",
+     "name": "瓦吉特·加油",
+     "category": 21,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10250/sprite/10250.png"
+    },
+    {
+     "id": "10251",
+     "name": "瓦吉特·萌混过关",
+     "category": 21,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10251/sprite/10251.png"
+    },
+    {
+     "id": "10252",
+     "name": "瓦吉特·贪吃蛇",
+     "category": 21,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10252/sprite/10252.png"
+    },
+    {
+     "id": "10253",
+     "name": "瓦吉特·下班",
+     "category": 21,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10253/sprite/10253.png"
+    },
+    {
+     "id": "10254",
+     "name": "瓦吉特·找到你了",
+     "category": 21,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10254/sprite/10254.png"
+    },
+    {
+     "id": "10261",
+     "name": "白泽·给你",
+     "category": 21,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10261/sprite/10261.png"
+    },
+    {
+     "id": "10262",
+     "name": "白泽·头疼",
+     "category": 21,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10262/sprite/10262.png"
+    },
+    {
+     "id": "10263",
+     "name": "白泽·威胁",
+     "category": 21,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10263/sprite/10263.png"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "name": "诗蔻蒂·看飞机",
+   "stickers": [
+    {
+     "id": "10264",
+     "name": "诗蔻蒂·看飞机",
+     "category": 22,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10264/sprite/10264.png"
+    },
+    {
+     "id": "10265",
+     "name": "诗蔻蒂·生日快乐",
+     "category": 22,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10265/sprite/10265.png"
+    },
+    {
+     "id": "10266",
+     "name": "诗蔻蒂·送花",
+     "category": 22,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10266/sprite/10266.png"
+    },
+    {
+     "id": "10267",
+     "name": "诗蔻蒂·贴贴",
+     "category": 22,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10267/sprite/10267.png"
+    },
+    {
+     "id": "10284",
+     "name": "管理员·笑",
+     "category": 22,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10284/sprite/10284.png"
+    },
+    {
+     "id": "10285",
+     "name": "管理员·高手登场",
+     "category": 22,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10285/sprite/10285.png"
+    },
+    {
+     "id": "10286",
+     "name": "管理员·加班中",
+     "category": 22,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10286/sprite/10286.png"
+    },
+    {
+     "id": "10287",
+     "name": "管理员·惊吓",
+     "category": 22,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10287/sprite/10287.png"
+    },
+    {
+     "id": "10288",
+     "name": "管理员·看戏",
+     "category": 22,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10288/sprite/10288.png"
+    },
+    {
+     "id": "10289",
+     "name": "管理员·累倒",
+     "category": 22,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10289/sprite/10289.png"
+    },
+    {
+     "id": "10290",
+     "name": "管理员·流汗",
+     "category": 22,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10290/sprite/10290.png"
+    },
+    {
+     "id": "10291",
+     "name": "管理员·耍帅",
+     "category": 22,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10291/sprite/10291.png"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "name": "薇儿丹蒂·好吃",
+   "stickers": [
+    {
+     "id": "10292",
+     "name": "薇儿丹蒂·好吃",
+     "category": 24,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10292/sprite/10292.png"
+    },
+    {
+     "id": "10293",
+     "name": "执明·你吃",
+     "category": 24,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10293/sprite/10293.png"
+    },
+    {
+     "id": "10294",
+     "name": "大国主·饭呢",
+     "category": 24,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10294/sprite/10294.png"
+    },
+    {
+     "id": "10295",
+     "name": "塞尔凯特·成交",
+     "category": 24,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10295/sprite/10295.png"
+    },
+    {
+     "id": "10308",
+     "name": "塞尔凯特·炒鱿鱼",
+     "category": 24,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10308/sprite/10308.png"
+    },
+    {
+     "id": "10309",
+     "name": "塞尔凯特·画饼",
+     "category": 24,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10309/sprite/10309.png"
+    },
+    {
+     "id": "10310",
+     "name": "塞尔凯特·泡茶",
+     "category": 24,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10310/sprite/10310.png"
+    },
+    {
+     "id": "10311",
+     "name": "塞尔凯特·盛粥",
+     "category": 24,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10311/sprite/10311.png"
+    },
+    {
+     "id": "10312",
+     "name": "埃克什瓦·不看爆炸",
+     "category": 24,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10312/sprite/10312.png"
+    },
+    {
+     "id": "10313",
+     "name": "埃克什瓦·吹灰之力",
+     "category": 24,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10313/sprite/10313.png"
+    },
+    {
+     "id": "10314",
+     "name": "埃克什瓦·华丽退场",
+     "category": 24,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10314/sprite/10314.png"
+    },
+    {
+     "id": "10315",
+     "name": "埃克什瓦·开始表演",
+     "category": 24,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10315/sprite/10315.png"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "name": "大国主·看戏",
+   "stickers": [
+    {
+     "id": "10281",
+     "name": "大国主·看戏",
+     "category": 25,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10281/sprite/10281.png"
+    },
+    {
+     "id": "10282",
+     "name": "维达尔·晕",
+     "category": 25,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10282/sprite/10282.png"
+    },
+    {
+     "id": "10283",
+     "name": "执明·生气",
+     "category": 25,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10283/sprite/10283.png"
+    },
+    {
+     "id": "10316",
+     "name": "奥西里斯·冥咩咩",
+     "category": 25,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10316/sprite/10316.png"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "name": "荷鲁斯·嗯！",
+   "stickers": [
+    {
+     "id": "10317",
+     "name": "荷鲁斯·嗯！",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10317/sprite/10317.png"
+    },
+    {
+     "id": "10318",
+     "name": "荷鲁斯·嗯？",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10318/sprite/10318.png"
+    },
+    {
+     "id": "10319",
+     "name": "荷鲁斯·真正的音乐",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10319/sprite/10319.png"
+    },
+    {
+     "id": "10320",
+     "name": "伊里伽尔·不听",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10320/sprite/10320.png"
+    },
+    {
+     "id": "10321",
+     "name": "伊里伽尔·带上这个",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10321/sprite/10321.png"
+    },
+    {
+     "id": "10322",
+     "name": "伊里伽尔·告辞",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10322/sprite/10322.png"
+    },
+    {
+     "id": "10323",
+     "name": "诗蔻蒂·嗷",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10323/sprite/10323.png"
+    },
+    {
+     "id": "10324",
+     "name": "诗蔻蒂·唔",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10324/sprite/10324.png"
+    },
+    {
+     "id": "10325",
+     "name": "海拉·好刺眼",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10325/sprite/10325.png"
+    },
+    {
+     "id": "10326",
+     "name": "海拉·蝴蝶飞",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10326/sprite/10326.png"
+    },
+    {
+     "id": "10327",
+     "name": "海拉·蝴蝶舞",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10327/sprite/10327.png"
+    },
+    {
+     "id": "10328",
+     "name": "海拉·一起走",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10328/sprite/10328.png"
+    },
+    {
+     "id": "10329",
+     "name": "霍德尔·记笔记",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10329/sprite/10329.png"
+    },
+    {
+     "id": "10330",
+     "name": "霍德尔·祈祷",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10330/sprite/10330.png"
+    },
+    {
+     "id": "10331",
+     "name": "霍德尔·让我看看",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10331/sprite/10331.png"
+    },
+    {
+     "id": "10332",
+     "name": "霍德尔·震撼",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10332/sprite/10332.png"
+    },
+    {
+     "id": "10333",
+     "name": "羲和·赞",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10333/sprite/10333.png"
+    },
+    {
+     "id": "10334",
+     "name": "金乌·一起玩！",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10334/sprite/10334.png"
+    },
+    {
+     "id": "10335",
+     "name": "禄良·来财",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10335/sprite/10335.png"
+    },
+    {
+     "id": "10336",
+     "name": "英招·专注",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10336/sprite/10336.png"
+    },
+    {
+     "id": "10343",
+     "name": "尼娅·嘻嘻",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10343/sprite/10343.png"
+    },
+    {
+     "id": "10344",
+     "name": "尼娅·呜呜",
+     "category": 26,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10344/sprite/10344.png"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "name": "无常·无咎来咯",
+   "stickers": [
+    {
+     "id": "10338",
+     "name": "无常·无咎来咯",
+     "category": 27,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10338/sprite/10338.png"
+    },
+    {
+     "id": "10339",
+     "name": "无常·来追我啊",
+     "category": 27,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10339/sprite/10339.png"
+    },
+    {
+     "id": "10340",
+     "name": "无常·难道说……",
+     "category": 27,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10340/sprite/10340.png"
+    },
+    {
+     "id": "10341",
+     "name": "奥西里斯·你不要过来啊！",
+     "category": 27,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10341/sprite/10341.png"
+    },
+    {
+     "id": "10342",
+     "name": "薇儿丹蒂·这是我的理论",
+     "category": 27,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10342/sprite/10342.png"
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "name": "托特·飞吻",
+   "stickers": [
+    {
+     "id": "10370",
+     "name": "托特·飞吻",
+     "category": 28,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10370/sprite/10370.png"
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "name": "无常·对的",
+   "stickers": [
+    {
+     "id": "10353",
+     "name": "无常·对的",
+     "category": 29,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10353/sprite/10353.png"
+    },
+    {
+     "id": "10354",
+     "name": "无常·不对",
+     "category": 29,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10354/sprite/10354.png"
+    },
+    {
+     "id": "10356",
+     "name": "金乌·难道说",
+     "category": 29,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10356/sprite/10356.png"
+    },
+    {
+     "id": "10365",
+     "name": "武罗·刷视频",
+     "category": 29,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10365/sprite/10365.png"
+    },
+    {
+     "id": "10366",
+     "name": "武罗·期待",
+     "category": 29,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10366/sprite/10366.png"
+    },
+    {
+     "id": "10367",
+     "name": "大国主·哼",
+     "category": 29,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10367/sprite/10367.png"
+    },
+    {
+     "id": "10368",
+     "name": "大国主·思考",
+     "category": 29,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10368/sprite/10368.png"
+    },
+    {
+     "id": "10369",
+     "name": "大国主·再见",
+     "category": 29,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10369/sprite/10369.png"
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "name": "薇儿丹蒂·可爱",
+   "stickers": [
+    {
+     "id": "10357",
+     "name": "薇儿丹蒂·可爱",
+     "category": 30,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10357/sprite/10357.png"
+    },
+    {
+     "id": "10358",
+     "name": "埃克什瓦·冲浪",
+     "category": 30,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10358/sprite/10358.png"
+    },
+    {
+     "id": "10359",
+     "name": "大国主·赌气",
+     "category": 30,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10359/sprite/10359.png"
+    },
+    {
+     "id": "10360",
+     "name": "伊邪那美·度假",
+     "category": 30,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10360/sprite/10360.png"
+    },
+    {
+     "id": "10362",
+     "name": "尼娅·飞吻",
+     "category": 30,
+     "url": "/static/stickers/textureconfig_chat_chatsticker_10362/sprite/10362.png"
+    }
+   ]
+  }
+ ]
+}

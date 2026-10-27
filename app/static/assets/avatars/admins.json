@@ -1,0 +1,32 @@
+{
+ "avatars": [
+  {
+   "id": "01",
+   "url": "/static/assets/avatars/admin_01.png"
+  },
+  {
+   "id": "02",
+   "url": "/static/assets/avatars/admin_02.png"
+  },
+  {
+   "id": "03",
+   "url": "/static/assets/avatars/admin_03.png"
+  },
+  {
+   "id": "04",
+   "url": "/static/assets/avatars/admin_04.png"
+  },
+  {
+   "id": "05",
+   "url": "/static/assets/avatars/admin_05.png"
+  },
+  {
+   "id": "06",
+   "url": "/static/assets/avatars/admin_06.png"
+  },
+  {
+   "id": "07",
+   "url": "/static/assets/avatars/admin_07.png"
+  }
+ ]
+}
